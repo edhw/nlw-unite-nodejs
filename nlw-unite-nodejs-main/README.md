@@ -1,5 +1,8 @@
 # pass.in
 
+Aprendizado do evento da RocketSeat https://app.rocketseat.com.br/events/nlw-unite/devops/
+
+
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
 
 A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição.
